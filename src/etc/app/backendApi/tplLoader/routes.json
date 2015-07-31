@@ -1,0 +1,7 @@
+[
+	{
+		"url":"/tpl/([a-zA-Z0-9_./-]+)",
+		"action":"loadTpl",
+		"vars": ["index"]
+	}
+]
